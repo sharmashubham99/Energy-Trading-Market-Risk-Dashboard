@@ -78,10 +78,4 @@ IF ( [Exposure vs Limit %] > 1, "BREACH", "OK" )
 3. **Trade Explorer** — table with slicers (Date, Trader, Commodity, Position)
    for drill-down, plus a scatter of Volume vs PnL to spot outlier trades.
 
-## What to write in the GitHub repo description
-"Power BI market risk dashboard built on synthetic energy trading data —
-star schema data model, DAX-based VaR and limit-utilization measures, and
-a 3-page report covering exposure, PnL, and desk-level risk monitoring."
 
-Push this README + the /data CSVs + a screenshot of the finished report
-(File > Export > PDF or a screenshot) + the .pbix file once built.
