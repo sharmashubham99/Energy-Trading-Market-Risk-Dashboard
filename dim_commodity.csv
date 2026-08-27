@@ -1,0 +1,5 @@
+CommodityID,CommodityName,Category,Unit,Currency
+PWR,Power (Baseload),Power,MWh,EUR
+GAS,Natural Gas,Gas,MWh,EUR
+COAL,Thermal Coal,Coal,Tonne,USD
+CO2,Carbon (EUA),Emissions,Tonne,EUR
